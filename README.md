@@ -20,7 +20,7 @@
 </tr>
 </table></br>
 
-- 👨‍💻 All of my projects are available at [https://github.com/MouhtaramSoufiane](https://github.com/abderrahimbouzid)
+- 👨‍💻 All of my projects are available at [https://github.com/abderrahimbouzid](https://github.com/abderrahimbouzid)
 
 - 📫 How to reach me developer.business01@gmail.com
 
