@@ -8,7 +8,7 @@
 
 ## ⚡ About Me
 
-I'm a builder with a mission to simplify tech. I work at the intersection of **code**, **automation**, and **open source** — helping businesses and individuals unlock new levels of productivity through smart systems and seamless digital experiences.
+I'm a builder with a mission to simplify tech. I work at the intersection of **code**, **automation**, and **open source**  helping businesses and individuals unlock new levels of productivity through smart systems and seamless digital experiences.
 
 ### 🔧 What I Do
 - Full stack web development (React, Node.js, Express, Django)
@@ -56,9 +56,9 @@ Across **Instagram** and **TikTok** as [@developer0101](https://www.instagram.co
 
 ## 🌐 Let’s Work
 
-If you're building something ambitious — or just want to automate the boring stuff — I can help.
+If you're building something ambitious  or just want to automate the boring stuff I can help.
 
-📬 Reach out: `abderrahim.bouzid.dev@gmail.com`  
+📬 Reach out: `developer.busines01@gmail.com`  
 🔗 DM me on [Instagram](https://www.instagram.com/developer0101)
 
 ---
