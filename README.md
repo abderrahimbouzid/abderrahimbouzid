@@ -2,7 +2,7 @@
 
 🚀 Full Stack Developer | AI Automation Engineer  
 🎥 Tech Content Creator @developer0101  
-📍 Morocco | 📬 abderrahim.bouzid.dev@gmail.com  
+📍 Morocco | 📬 developer.busines01@gmail.com  
 
 ---
 
