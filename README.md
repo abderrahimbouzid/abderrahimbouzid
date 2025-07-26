@@ -1,66 +1,61 @@
-# 👨‍💻 Abderrahim Bouzid
+<h1>👨‍💻 Abderrahim Bouzid</h1>
 
-🚀 Full Stack Developer | AI Automation Engineer  
-🎥 Tech Content Creator @developer0101  
-📍 Morocco | 📬 developer.busines01@gmail.com  
+<p>
+🚀 <strong>Full Stack Developer</strong> | <strong>AI Automation Engineer</strong><br/>
+🎥 Tech Content Creator <a href="https://instagram.com/developer0101" target="_blank">@developer0101</a><br/>
+📍 Morocco<br/>
+📧 business.developer01@gmail.com | support@developer0101.com
+</p>
 
----
+<h2>⚡ About Me</h2>
+<ul>
+  <li>Full Stack Web Apps (React, Express, Django)</li>
+  <li>Automation with <code>n8n</code></li>
+  <li>Deploying open source tools and private AI agents</li>
+  <li>Custom CRM & Social Media Manager Solutions</li>
+  <li>Self-hosted backend automation pipelines</li>
+</ul>
 
-## ⚡ About Me
+<h2>🧠 AI & Automation</h2>
+<ul>
+  <li>Deploying and hosting AI-powered services</li>
+  <li>Automation engineering for teams and creators</li>
+  <li>Integrating APIs, databases, and containerized stacks</li>
+</ul>
 
-I'm a builder with a mission to simplify tech. I work at the intersection of **code**, **automation**, and **open source**  helping businesses and individuals unlock new levels of productivity through smart systems and seamless digital experiences.
+<h2>🎥 Content Creation</h2>
+<p>
+As <strong><a href="https://instagram.com/developer0101">@developer0101</a></strong> I create viral short videos on:
+</p>
+<ul>
+  <li>AI tools and smart workflows</li>
+  <li>No-code & low-code automation</li>
+  <li>Hidden gems in the tech world</li>
+</ul>
+<p><strong>+710K</strong> on Instagram | <strong>+100K</strong> on TikTok</p>
 
-### 🔧 What I Do
-- Full stack web development (React, Node.js, Express, Django)
-- AI-powered workflow automation
-- Building & deploying open-source stacks
-- Creating private AI agents & internal tools
-- Custom CRM & Social Media Manager solutions
-- Automation pipelines using low-code platforms like `n8n`
+<h2>📊 GitHub Activity</h2>
 
-🧠 Always shipping. Always optimizing.
+<p>
+  <img src="https://streak-stats.demolab.com?user=abderrahimbouzid&theme=transparent&hide_border=true" alt="GitHub Streak" />
+</p>
 
----
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abderrahimbouzid&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+</p>
 
-## 🧠 AI & Automation Engineering
+<p>
+  <img src="https://ghchart.rshah.org/0e76a8/abderrahimbouzid" alt="GitHub Contribution Chart" />
+</p>
 
-My expertise includes:
-- Designing self-hosted agents and automation flows
-- Deploying private AI tools on cloud infrastructure
-- Developing internal dashboards, bots, and data services
-- Creating scalable API-based systems using containers & reverse proxies
+<h2>📬 Let's Connect</h2>
+<ul>
+  <li>Email: <a href="mailto:business.developer01@gmail.com">business.developer01@gmail.com</a></li>
+  <li>Support: <a href="mailto:support@developer0101.com">support@developer0101.com</a></li>
+  <li>Instagram: <a href="https://instagram.com/developer0101">@developer0101</a></li>
+  <li>TikTok: <a href="https://tiktok.com/@developer0101">@developer0101</a></li>
+</ul>
 
-> From concept to containerized deployment.
-
----
-
-## 🌍 Content Creation
-
-Across **Instagram** and **TikTok** as [@developer0101](https://www.instagram.com/developer0101), I share viral videos about:
-- AI use-cases & future trends  
-- Developer tools, APIs & frameworks  
-- Smart workflows for entrepreneurs & creators  
-
-**+710K** on Instagram | **+100K** on TikTok
-
-> Follow for tech that actually matters.
-
----
-
-## 📊 GitHub Activity
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=abderrahimbouzid&theme=transparent&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abderrahimbouzid&layout=compact&theme=transparent&hide_border=true)
-
----
-
-## 🌐 Let’s Work
-
-If you're building something ambitious  or just want to automate the boring stuff I can help.
-
-📬 Reach out: `developer.busines01@gmail.com`  
-🔗 DM me on [Instagram](https://www.instagram.com/developer0101)
-
----
-
-> "Real innovation happens when creativity meets execution."  
+<blockquote>
+  <em>"Real innovation happens when creativity meets execution."</em>
+</blockquote>
